@@ -1,0 +1,13 @@
+body{
+    background-color: #a7d0e8;
+    border-color: deeppink;
+    border-style:dotted;
+}
+h1{
+    color: #991f54;
+}
+Img{
+    border-color: black;
+    border-style:solid;
+    margin-left: 10px;
+}
